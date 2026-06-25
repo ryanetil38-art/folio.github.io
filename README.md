@@ -1,2 +1,2 @@
-# folio.github.io
+# folio
 portfolio
